@@ -112,6 +112,8 @@
       <path value="$PROJECT_DIR$/freecodegram/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/freecodegram/vendor/psr/simple-cache" />
       <path value="$PROJECT_DIR$/freecodegram/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/freecodegram/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/freecodegram/vendor/laravel/telescope" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
